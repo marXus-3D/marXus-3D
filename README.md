@@ -2,7 +2,7 @@
 - 👀 I’m interested in Computr Graphics, Video Game Development, Coding, Crypto & web3(NFT)
 - 🌱 I’m currently learning Computer Graphics & Coding specifically C# & javascript
 - 💞️ I’m looking to collaborate on Video Game, Application & VFX projects
-- 📫 How to reach me Gmail-marxus3d@gmail.com
+- 📫 How to reach me Gmail- marxus3d@gmail.com
                       Insta-marxus3d
 <!---
 marXus-3D/marXus-3D is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
