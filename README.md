@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @marXus-3D
-- 👀 I’m interested in Computr Graphics, Video Game Development, Coding, Crypto & web3(NFT)
-- 🌱 I’m currently learning Computer Graphics & Coding specifically C# & javascript
-- 💞️ I’m looking to collaborate on Video Game, Application & VFX projects
+- 👀 I’m interested in Computer Graphics, Video Game Development and Coding.
+- 🌱 I’m currently learning Computer Graphics & Coding specifically C# & C++
+- 💞️ I’m looking to collaborate on Video Game, Application & software projects
 - 📫 How to reach me Gmail- marcus.h1620@gmail.com
                       Instagram- marxus3d
 <!---
