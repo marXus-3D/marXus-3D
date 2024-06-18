@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [Rate my Teacher](https://github.com/marXus-3D/rate_my_teacher)
 
-- 🌱 I’m currently learning **Python, Django**
+- 🌱 I’m currently learning **Web Development, Node JS, Express, React**
 
 - 👨‍💻 All of my projects are available at [https://github.com/marXus-3D/](https://github.com/marXus-3D/)
 
