@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **marcus.h1620@gmail.com**
 
-- ⚡ Fun fact **I also do digital artist**
+- ⚡ Fun fact **I also do digital art**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
