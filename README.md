@@ -1,4 +1,5 @@
-[![MasterHead](https://i.ibb.co/7ktTGb9/a7a3878e-1547-4c54-b822-b52b7fbbb705edited-1.jpg)](https://www.instagram.com/marxus3d/)
+<!-- [![MasterHead](https://i.ibb.co/7ktTGb9/a7a3878e-1547-4c54-b822-b52b7fbbb705edited-1.jpg)](https://www.instagram.com/marxus3d/) -->
+<p align="center"><a href="https://www.instagram.com/marxus3d/"><img src="https://i.ibb.co/7ktTGb9/a7a3878e-1547-4c54-b822-b52b7fbbb705edited-1.jpg" alt="Profile Banner" /></a></p>
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=C31432&center=true&random=false&width=500&height=70&lines=Hey+There+%F0%9F%91%8B;I'm+Marcus+Biadegelign;Computer+Science+Student" alt="Typing SVG" />
 </h1>
@@ -52,7 +53,8 @@
 <br><br>
 <p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=marxus-3d&theme=great-gatsby&show_icons=true&border_radius=10&locale=en&layout=donut&bg_color=000000" alt="marxus-3d" /></p>
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=marxus-3d&theme=great-gatsby&border_radius=10&show_icons=true&locale=en&rank_icon=github&bg_color=000000" alt="marxus-3d" /> <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=marxus-3d&theme=great-gatsby&border_radius=10&bg_color=000000" alt="marxus-3d" /></p>
+<p align="left">&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=marxus-3d&theme=great-gatsby&border_radius=10&show_icons=true&locale=en&rank_icon=github&bg_color=000000" alt="marxus-3d" /></p>
+<p align="left"><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=marxus-3d&theme=great-gatsby&border_radius=10&bg_color=000000" alt="marxus-3d" /></p>
 
 <!--- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=marxus-3d&theme=great-gatsby&border_radius=10&show_icons=true&locale=en&rank_icon=github" alt="marxus-3d" /></p>
 
