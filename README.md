@@ -23,7 +23,7 @@
 <!--<img align="right" alt="Coding" width="400" src="https://i.ibb.co/4pkY31Q/finance-illustration-03.png">-->
 <p align="right"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=marxus-3d&theme=dark_lover&no-frame=true" alt="marxus-3d" /></a> </p>
 
-- 🔭 I’m currently working on [Rate my Teacher](https://github.com/marXus-3D/rate_my_teacher)
+- 🔭 I’m currently working on [Altium](https://github.com/marXus-3D/Altium_Backend)
 
 - 🌱 I’m currently learning **Web Development, Node JS, Express, React**
 
