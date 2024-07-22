@@ -53,8 +53,8 @@
 <br><br>
 <p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=marxus-3d&theme=great-gatsby&show_icons=true&border_radius=10&locale=en&layout=donut&bg_color=000000" alt="marxus-3d" /></p>
 
-<p align="left">&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=marxus-3d&theme=great-gatsby&border_radius=10&show_icons=true&locale=en&rank_icon=github&bg_color=000000" alt="marxus-3d" /></p>
-<p align="left"><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=marxus-3d&theme=great-gatsby&border_radius=10&bg_color=000000" alt="marxus-3d" /></p>
+<p align="left">&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=marXus-3D&theme=great-gatsby&border_radius=10&show_icons=true&locale=en&rank_icon=github&bg_color=000000" alt="marxus-3d" /></p>
+<p align="left"><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=marXus-3D&theme=great-gatsby&border_radius=10&bg_color=000000" alt="marxus-3d" /></p>
 
 <!--- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=marxus-3d&theme=great-gatsby&border_radius=10&show_icons=true&locale=en&rank_icon=github" alt="marxus-3d" /></p>
 
